@@ -12,4 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-// madhan is a proud kannadiga
+// madhan is a proud kannadiga boy
